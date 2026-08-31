@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ram03511/leetcode/tree/master/0007-reverse-integer) |
+| [3945-digit-frequency-score](https://github.com/ram03511/leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ram03511/leetcode/tree/master/0001-two-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3945-digit-frequency-score](https://github.com/ram03511/leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
