@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ram03511/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3701-compute-alternating-sum](https://github.com/ram03511/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ram03511/leetcode/tree/master/3866-first-unique-even-element) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
