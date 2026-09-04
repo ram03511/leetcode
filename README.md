@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ram03511/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ram03511/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ram03511/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -62,16 +64,26 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3866-first-unique-even-element](https://github.com/ram03511/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
