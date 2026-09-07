@@ -79,6 +79,7 @@
 | [0242-valid-anagram](https://github.com/ram03511/leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/ram03511/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1446-consecutive-characters](https://github.com/ram03511/leetcode/tree/master/1446-consecutive-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
