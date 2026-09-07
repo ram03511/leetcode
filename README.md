@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ram03511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ram03511/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ram03511/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/ram03511/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ram03511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ram03511/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ram03511/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ram03511/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
