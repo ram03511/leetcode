@@ -23,6 +23,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ram03511/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ram03511/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
