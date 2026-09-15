@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/ram03511/leetcode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/ram03511/leetcode/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/ram03511/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ram03511/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ram03511/leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ram03511/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
