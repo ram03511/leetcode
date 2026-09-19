@@ -42,6 +42,7 @@
 | [0739-daily-temperatures](https://github.com/ram03511/leetcode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ram03511/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -75,6 +76,7 @@
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ram03511/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
@@ -133,6 +135,7 @@
 | [0242-valid-anagram](https://github.com/ram03511/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/ram03511/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
@@ -208,4 +211,8 @@
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ram03511/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ram03511/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
