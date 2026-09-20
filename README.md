@@ -101,6 +101,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ram03511/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/ram03511/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -114,6 +115,7 @@
 | [1678-goal-parser-interpretation](https://github.com/ram03511/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
