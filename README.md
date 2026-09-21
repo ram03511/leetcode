@@ -38,6 +38,7 @@
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ram03511/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ram03511/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ram03511/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/ram03511/leetcode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ram03511/leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,4 +230,12 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
