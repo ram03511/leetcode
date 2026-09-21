@@ -213,6 +213,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ram03511/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/ram03511/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,4 +239,9 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/ram03511/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ram03511/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
