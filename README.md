@@ -47,6 +47,7 @@
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1652-defuse-the-bomb](https://github.com/ram03511/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1652-defuse-the-bomb](https://github.com/ram03511/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Number Theory
 |  |
 | ------- |
