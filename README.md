@@ -58,6 +58,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/ram03511/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/ram03511/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ram03511/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ram03511/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -89,6 +90,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/ram03511/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/ram03511/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
