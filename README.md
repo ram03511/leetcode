@@ -48,6 +48,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/ram03511/leetcode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/ram03511/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ram03511/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ram03511/leetcode/tree/master/0933-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/ram03511/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
