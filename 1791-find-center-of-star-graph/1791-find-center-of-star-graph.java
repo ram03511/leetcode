@@ -1,13 +1,10 @@
 class Solution {
     public int findCenter(int[][] edges) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int[] arr : edges){
-            map.put(arr[0],map.getOrDefault(arr[0],0)+1);
-            map.put(arr[1],map.getOrDefault(arr[1],0)+1);
-        }
-        for(int val: map.keySet()){
-            if(edges.length == map.get(val)) return val;
-        }
-        return -1;
+        int u1 = edges[0][0];
+        int v1 = edges[0][1];
+        int u2 = edges[1][0];
+        int v2 = edges[1][1];
+        if(u1 == u2 || u1 == v2) return u1;
+        return v1;
     }
 }
