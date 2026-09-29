@@ -286,4 +286,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/ram03511/leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
