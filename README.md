@@ -268,6 +268,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ram03511/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/ram03511/leetcode/tree/master/1791-find-center-of-star-graph) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ram03511/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
