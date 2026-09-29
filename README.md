@@ -199,6 +199,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ram03511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/ram03511/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Pigeonhole Principle
 |  |
@@ -270,6 +271,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ram03511/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/ram03511/leetcode/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/ram03511/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
