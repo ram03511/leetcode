@@ -61,6 +61,7 @@
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ram03511/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ram03511/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -100,6 +101,7 @@
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ram03511/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -208,6 +210,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ram03511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ram03511/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Pigeonhole Principle
 |  |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/ram03511/leetcode/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Bracket Sequences
 |  |
 | ------- |
