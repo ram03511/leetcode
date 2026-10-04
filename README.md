@@ -161,6 +161,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/ram03511/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/ram03511/leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
@@ -221,6 +222,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ram03511/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/ram03511/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
