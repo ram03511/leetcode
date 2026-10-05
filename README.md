@@ -106,6 +106,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ram03511/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ram03511/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -161,6 +162,7 @@
 | [1678-goal-parser-interpretation](https://github.com/ram03511/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/ram03511/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ram03511/leetcode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ram03511/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ram03511/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ram03511/leetcode/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
