@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/ram03511/leetcode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/ram03511/leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/ram03511/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1486-xor-operation-in-an-array](https://github.com/ram03511/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ram03511/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ram03511/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/ram03511/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ram03511/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
