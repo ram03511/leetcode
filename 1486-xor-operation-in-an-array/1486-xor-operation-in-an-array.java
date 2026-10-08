@@ -3,8 +3,8 @@ class Solution {
         int xor = 0;
         int j=0;
         for(int i=0;i<n;i++){
-           j = start+2*i;
-           xor = (xor^j);
+           xor = (xor^start);
+           start += 2;
         }
         return xor;
     }
