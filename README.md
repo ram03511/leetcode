@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ram03511/leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/ram03511/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ram03511/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ram03511/leetcode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/ram03511/leetcode/tree/master/0709-to-lower-case) |
@@ -234,6 +235,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ram03511/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ram03511/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ram03511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
