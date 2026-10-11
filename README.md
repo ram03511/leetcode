@@ -88,6 +88,7 @@
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ram03511/leetcode/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ram03511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3912-valid-elements-in-an-array](https://github.com/ram03511/leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/ram03511/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
