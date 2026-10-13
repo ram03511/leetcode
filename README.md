@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ram03511/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ram03511/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/ram03511/leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -162,6 +163,7 @@
 | [0409-longest-palindrome](https://github.com/ram03511/leetcode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/ram03511/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ram03511/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ram03511/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -244,6 +246,7 @@
 | [0141-linked-list-cycle](https://github.com/ram03511/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ram03511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ram03511/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/ram03511/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -283,6 +286,7 @@
 | [0496-next-greater-element-i](https://github.com/ram03511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ram03511/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ram03511/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ram03511/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
