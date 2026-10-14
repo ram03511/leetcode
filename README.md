@@ -58,6 +58,7 @@
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/ram03511/leetcode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/ram03511/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ram03511/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ram03511/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -169,6 +170,7 @@
 | [1108-defanging-an-ip-address](https://github.com/ram03511/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/ram03511/leetcode/tree/master/1446-consecutive-characters) |
+| [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ram03511/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ram03511/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -289,6 +291,7 @@
 | [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ram03511/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ram03511/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
