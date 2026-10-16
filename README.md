@@ -57,6 +57,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/ram03511/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/ram03511/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/ram03511/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/ram03511/leetcode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
@@ -172,6 +173,7 @@
 | [1108-defanging-an-ip-address](https://github.com/ram03511/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/ram03511/leetcode/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/ram03511/leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ram03511/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
