@@ -25,6 +25,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ram03511/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ram03511/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ram03511/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ram03511/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/ram03511/leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/ram03511/leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
@@ -90,6 +91,7 @@
 | [3701-compute-alternating-sum](https://github.com/ram03511/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ram03511/leetcode/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ram03511/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ram03511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3912-valid-elements-in-an-array](https://github.com/ram03511/leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/ram03511/leetcode/tree/master/3925-concatenate-array-with-reverse) |
