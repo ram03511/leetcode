@@ -35,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/ram03511/leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ram03511/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ram03511/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ram03511/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ram03511/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ram03511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ram03511/leetcode/tree/master/0169-majority-element) |
@@ -196,6 +197,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ram03511/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ram03511/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ram03511/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ram03511/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
