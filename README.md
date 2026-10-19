@@ -71,6 +71,7 @@
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ram03511/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -142,6 +143,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ram03511/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ram03511/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ram03511/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -225,6 +227,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/ram03511/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
