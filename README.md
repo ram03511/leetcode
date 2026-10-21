@@ -175,6 +175,7 @@
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ram03511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ram03511/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ram03511/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -303,6 +304,7 @@
 | [0739-daily-temperatures](https://github.com/ram03511/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ram03511/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ram03511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ram03511/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/ram03511/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ram03511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Theory
 |  |
