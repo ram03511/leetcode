@@ -54,6 +54,7 @@
 | [0682-baseball-game](https://github.com/ram03511/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ram03511/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ram03511/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/ram03511/leetcode/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ram03511/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/ram03511/leetcode/tree/master/1051-height-checker) |
@@ -117,6 +118,7 @@
 | [0525-contiguous-array](https://github.com/ram03511/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ram03511/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ram03511/leetcode/tree/master/0771-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/ram03511/leetcode/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/ram03511/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ram03511/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -146,6 +148,7 @@
 | [0441-arranging-coins](https://github.com/ram03511/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ram03511/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ram03511/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/ram03511/leetcode/tree/master/0888-fair-candy-swap) |
 | [1539-kth-missing-positive-number](https://github.com/ram03511/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ram03511/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -232,6 +235,7 @@
 | [0242-valid-anagram](https://github.com/ram03511/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ram03511/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0888-fair-candy-swap](https://github.com/ram03511/leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/ram03511/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
