@@ -75,6 +75,7 @@
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ram03511/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ram03511/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ram03511/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ram03511/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -238,6 +239,7 @@
 | [0888-fair-candy-swap](https://github.com/ram03511/leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/ram03511/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ram03511/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ram03511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ram03511/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
@@ -347,6 +349,7 @@
 | ------- |
 | [1051-height-checker](https://github.com/ram03511/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ram03511/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ram03511/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -354,6 +357,7 @@
 | [0409-longest-palindrome](https://github.com/ram03511/leetcode/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ram03511/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Linked List
 |  |
 | ------- |
