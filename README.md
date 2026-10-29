@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ram03511/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ram03511/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ram03511/leetcode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/ram03511/leetcode/tree/master/0441-arranging-coins) |
@@ -363,6 +364,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ram03511/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ram03511/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ram03511/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ram03511/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -397,6 +399,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ram03511/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ram03511/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ram03511/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ram03511/leetcode/tree/master/0206-reverse-linked-list) |
