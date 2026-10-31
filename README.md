@@ -90,6 +90,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/ram03511/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ram03511/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ram03511/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ram03511/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ram03511/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -248,6 +249,7 @@
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ram03511/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/ram03511/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/ram03511/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -281,6 +283,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ram03511/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ram03511/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ram03511/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ram03511/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/ram03511/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Pigeonhole Principle
 |  |
