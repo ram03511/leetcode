@@ -169,6 +169,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ram03511/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/ram03511/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ram03511/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/ram03511/leetcode/tree/master/3894-traffic-signal-color) |
@@ -206,6 +207,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/ram03511/leetcode/tree/master/2418-sort-the-people) |
+| [3174-clear-digits](https://github.com/ram03511/leetcode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/ram03511/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ram03511/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -327,6 +329,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ram03511/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ram03511/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ram03511/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
