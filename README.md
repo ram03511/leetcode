@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/ram03511/leetcode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/ram03511/leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/ram03511/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1323-maximum-69-number](https://github.com/ram03511/leetcode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ram03511/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ram03511/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ram03511/leetcode/tree/master/2235-add-two-integers) |
@@ -373,6 +374,7 @@
 | [0409-longest-palindrome](https://github.com/ram03511/leetcode/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ram03511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ram03511/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/ram03511/leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ram03511/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Linked List
 |  |
