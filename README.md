@@ -20,6 +20,7 @@
 | [2652-sum-multiples](https://github.com/ram03511/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ram03511/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ram03511/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ram03511/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/ram03511/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ram03511/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -94,6 +95,7 @@
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ram03511/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ram03511/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ram03511/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ram03511/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ram03511/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ram03511/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -175,6 +177,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/ram03511/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/ram03511/leetcode/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ram03511/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ram03511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ram03511/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/ram03511/leetcode/tree/master/3894-traffic-signal-color) |
@@ -314,6 +317,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ram03511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ram03511/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
