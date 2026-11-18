@@ -173,6 +173,7 @@
 | [1603-design-parking-system](https://github.com/ram03511/leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ram03511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ram03511/leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ram03511/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ram03511/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/ram03511/leetcode/tree/master/2974-minimum-number-game) |
@@ -211,6 +212,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ram03511/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ram03511/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ram03511/leetcode/tree/master/2129-capitalize-the-title) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ram03511/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/ram03511/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/ram03511/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ram03511/leetcode/tree/master/2390-removing-stars-from-a-string) |
